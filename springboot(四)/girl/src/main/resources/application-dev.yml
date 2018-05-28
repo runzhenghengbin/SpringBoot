@@ -1,0 +1,5 @@
+server:
+  port: 8099
+girl:
+  name: maomao
+  age: 18

@@ -1,0 +1,5 @@
+server:
+  port: 8088
+girl:
+  name: mengmeng
+  age: 18
