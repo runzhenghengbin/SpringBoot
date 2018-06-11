@@ -12,8 +12,8 @@ springboot学习记录
    * [5.) SpringBoot(五)_表单验证](/springboot(五)/SpringBoot(五)_表单验证.md)
    * [6.) SpringBoot(六)_AOP统一处理请求](/springboot(六)/SpringBoot(六)_AOP统一处理请求.md)
    * [7.) SpringBoot(七)_统一异常处理](/springboot(七)/SpringBoot(七)_统一异常处理.md)
-   * [8.) SpringBoot(八)_SpringBoot(八)_springboot集成swagger2](/springboot(八)/SpringBoot(八)_springboot集成swagger2.md)
-   * [9.) SpringBoot(九)_SpringBoot(九)_springboot集成 MyBatis](/springboot(九)/SpringBoot(九)_springboot集成 MyBatis.md)
+   * [8.) SpringBoot(八)_springboot集成swagger2](/springboot(八)/SpringBoot(八)_springboot集成swagger2.md)
+   * [9.) SpringBoot(九)_springboot集成 MyBatis](/springboot(九)/SpringBoot(九)_springboot集成 MyBatis.md)
    
    
    
