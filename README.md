@@ -14,6 +14,7 @@ springboot学习记录
    * [7.) SpringBoot(七)_统一异常处理](/springboot(七)/SpringBoot(七)_统一异常处理.md)
    * [8.) SpringBoot(八)_springboot集成swagger2](/springboot(八)/SpringBoot(八)_springboot集成swagger2.md)
    * [9.) SpringBoot(九)_springboot集成MyBatis](/springboot(九)/SpringBoot(九)_springboot集成MyBatis.md)
+   * [10.) SpringBoot(十)_springboot集成Redis](/springboot(十)/SpringBoot(十)_springboot集成Redis.md)
    
    
    
