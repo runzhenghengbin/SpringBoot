@@ -17,7 +17,7 @@ springboot学习记录
    * [10.) SpringBoot(十)_springboot集成Redis](/springboot(十)/SpringBoot(十)_springboot集成Redis.md)
    * [11.) SpringBoot(十一)_springboot导入excel读取excel中的数据](/springboot(十一)/SpringBoot(十一)_springboot上传excel并读取数据.md)
    * [12.) SpringBoot(十二)_springboot整合RabbitMQ](/springboot(十二)/SpringBoot(十二)_springboot整合RabbitMQ.md)
-   * [13.) SpringBoot(十三)_springboot实现预览pdf](/springboot(十三)/SpringBoot(十三)_springboot实现预览pdfspringboot实现预览pdf.md)
+   * [13.) SpringBoot(十三)_springboot实现预览pdf](/springboot(十三)/SpringBoot(十三)_springboot实现预览pdf.md)
 
    
    
