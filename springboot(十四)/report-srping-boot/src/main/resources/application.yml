@@ -1,0 +1,16 @@
+# Server settings
+server:
+  port: 8080
+
+# SPRING PROFILES
+spring:
+  http:
+    encoding.charset: UTF-8
+    encoding.enable: true
+    encoding.force: true
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/kevin?characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: 123456
+    driver-class-name: com.mysql.jdbc.Driver
+
