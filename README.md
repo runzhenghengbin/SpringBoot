@@ -20,6 +20,7 @@
 * [SpringBoot(十三)_springboot实现预览pdf](https://github.com/runzhenghengbin/SpringBoot/wiki/13-springboot-pdf-view)
 * [SpringBoot(十四)_springboot整合JasperReport6.6.0](https://github.com/runzhenghengbin/SpringBoot/wiki/14-springboot-jasperreport-6.6.0)
 * [SpringBoot(十五)_springboot跨域处理](https://github.com/runzhenghengbin/SpringBoot/wiki/15-springboot-kua-yu)
+* [SpringBoot(十六)_springboot整合elastic-job](https://github.com/runzhenghengbin/SpringBoot)
 
 ## 附录（Appendix）
 
