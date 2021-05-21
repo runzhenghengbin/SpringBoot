@@ -42,8 +42,8 @@ public class PdfController {
 
         String content = freeMarkerRender(data, html);
         response.reset();
-        response.setContentType("application/octet-stream");
-        response.addHeader("Content-Disposition", "attachment;filename=" + new String("filename.pdf".getBytes("gbk"), "ISO8859-1"));
+        response.setContentType("application/pdf");
+        response.addHeader("Content-Disposition", "inline;filename=" + new String("filename.pdf".getBytes("gbk"), "ISO8859-1"));
         //创建pdf
         ServletOutputStream out = response.getOutputStream();
         createPdf(content, out);
@@ -77,6 +77,7 @@ public class PdfController {
             //将合并后的数据和模板写入到流中，这里使用的字符流
             template.process(data, out);
             out.flush();
+            System.out.println(out.toString());
             return out.toString();
         } finally {
             out.close();

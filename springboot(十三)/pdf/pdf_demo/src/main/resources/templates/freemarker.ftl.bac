@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>培训课程学习证明</title>
+</head>
+<body style="background-color: white;  overflow: hidden">
+<div style=" margin: 0 auto; width: 1200px">
+    <p style="font-size: 24px; text-align: center; font-weight: bold; margin: 32px 0 0;">培训课程学习证明</p>
+    <p style="font-size: 16px; text-align: center;  margin: 24px 0;">生成日期：2021.05.08</p>
+    <table border="1" width="800" height="200" cellspacing="0" style="margin: 24px auto;border-collapse:collapse">
+        <tr>
+            <td style="padding-left: 8px">姓名</td>
+            <td style="padding-left: 8px">${name}</td>
+            <td rowspan="3" style="text-align: center">
+                <img width="150" height="150" src="" style="margin-right: 48px"/>
+                <img width="150" height="150" src=""/>
+            </td>
+
+        </tr>
+        <tr>
+            <td style="padding-left: 8px">身份证号</td>
+            <td style="padding-left: 8px">372598569858565254</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 8px">单位</td>
+            <td style="padding-left: 8px">xxx教师进修学校</td>
+        </tr>
+    </table>
+    <table border="1" width="800" cellspacing="0"  style="margin: 24px auto;border-collapse:collapse;">
+        <tr>
+            <td style=" padding: 16px 8px;">项目名称</td>
+            <td width="450" style=" padding: 16px 8px;">xxxx专业技术人员继续教育公需科目培训</td>
+            <td style="padding: 16px 8px;">项目学时要求</td>
+            <td style="padding: 16px 8px;">30学时</td>
+        </tr>
+    </table>
+    <table border="1" width="800" height="200" cellspacing="0"  style="margin: 24px auto;border-collapse:collapse">
+        <tr>
+            <td colspan="3" style="text-align: right; padding-right: 16px;">
+                完成：2门课程  共计：32学时
+            </td>
+        </tr>
+        <tr>
+            <td width="450" style="padding-left: 8px">课程名称</td>
+            <td style="padding-left: 8px">课程学时</td>
+            <td style="padding-left: 8px">完成状态</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 8px">【必修课】【xxx新时代中国特色社会主义思想系列专题】“xxx新时代中国特色社会主义思想”专题系列课程</td>
+            <td style="padding-left: 8px">30</td>
+            <td style="padding-left: 8px">已完成</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 8px">【选修课】【疫情防控】学校新冠肺炎疫情防控在线培训</td>
+            <td style="padding-left: 8px">2</td>
+            <td style="padding-left: 8px">已完成</td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>
