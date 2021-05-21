@@ -1,5 +1,4 @@
 
 
-DEST: target/HelloWorld_CN_HTML_FREEMARKER.pdf
 HTML: freemarker.ftl
 FONT: simhei.ttf
